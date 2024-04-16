@@ -1,1 +1,2 @@
 print("Sanjar")
+print('Nurbek')
