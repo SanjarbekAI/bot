@@ -27,3 +27,4 @@ def run_threads():
 
     for th in threads:
         th.join()
+
